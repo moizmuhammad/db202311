@@ -1,6 +1,6 @@
 # Database Design - *A hands-on approach*
 <br>
-![alt text](https://www.google.com/imgres?imgurl=https%3A%2F%2Flive.staticflickr.com%2F7375%2F12459211923_0384260fe5_b.jpg&tbnid=WY4bl00gdT57BM&vet=12ahUKEwiGndrNwNiCAxXJnCcCHSWHCtoQMygKegUIARCNAQ..i&imgrefurl=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Fwillowbl00%2F12459211923&docid=mplGeehgG0IuwM&w=1024&h=561&itg=1&q=database%20image&hl=en&ved=2ahUKEwiGndrNwNiCAxXJnCcCHSWHCtoQMygKegUIARCNAQ)
+![title image](dbdesign.png)
 <br>
 ## Why to learn about databases in 2023?
 
