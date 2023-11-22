@@ -14,8 +14,18 @@ Whether you want to be a software developer or interested in any data related ro
 
 ## How this course will be conducted?
 
-This course will take a hands-on approach
+This course will take a hands-on approach. The course topics are divided into 4 key areas:
+
+	- Week 1 & 2: Understand database concepts and develop SQL Skills using a sample database
+	- Week 3 & 4: Understand data modeling techniqes and develop a logical and physical database design
+	- Week 5 & 6: Understand OLTP system design practices
+	- Week 7 & 8: Understand OLAP system design practices
+
 
 ## What topics this course will cover?
+
+To be more specific, this course will cover the following topics:
+
+
 
 
