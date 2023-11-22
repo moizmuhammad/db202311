@@ -26,18 +26,18 @@ This course will take a hands-on approach. The course topics are divided into 4 
 
 To be more specific, this course will cover the following topics:
 
-	- develop understanding of database technology
-	- perform Create-Read-Update-Delete (CRUD) operations using Structured Query Language (SQL)
- 	- learn components of SQL
-  		- Data Definiation Language (DDL)
-    		- Data Maniputation Language (DML)
-      		- Data Control Language (DCL)
-	- learn entity-relationship modeling technique (ER-model)
-   	- develop understanding of database objects like table, view, sequence, synonym, materialized views, indexes
-        - develop understanding of database stored procedures, functions, triggers
-  	- differentiate between a OLTP and OLAP systems
-  	- learn transactional system design techniques 
-   	- learn analytical system design techniques
+- develop understanding of database technology
+- perform Create-Read-Update-Delete (CRUD) operations using Structured Query Language (SQL)
+- learn components of SQL
+	- Data Definiation Language (DDL)
+	- Data Maniputation Language (DML)
+	- Data Control Language (DCL)
+- learn entity-relationship modeling technique (ER-model)
+- develop understanding of database objects like table, view, sequence, synonym, materialized views, indexes
+- develop understanding of database stored procedures, functions, triggers
+- differentiate between a OLTP and OLAP systems
+- learn transactional system design techniques 
+- learn analytical system design techniques
 
 ## What tools and databases will be used in this course?
 
