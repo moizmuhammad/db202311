@@ -29,8 +29,8 @@ To be more specific, this course will cover the following topics:
 - develop understanding of database technology
 - perform Create-Read-Update-Delete (CRUD) operations using Structured Query Language (SQL)
 - learn components of SQL
-	- Data Definiation Language (DDL)
-	- Data Maniputation Language (DML)
+	- Data Definition Language (DDL)
+	- Data Manipulation Language (DML)
 	- Data Control Language (DCL)
 - learn entity-relationship modeling technique (ER-model)
 - develop understanding of database objects like table, view, sequence, synonym, materialized views, indexes
