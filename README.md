@@ -48,12 +48,12 @@ Database management systems used in this course will include [SQLITE](https://ww
 ## Others Resources
 
 Courses:
-	1. ([Introduction to Databases (Coursera)](https://www.coursera.org/learn/introduction-to-databases))
- 	2. ([Databases: Relational Databases and SQL (stanford online)](https://online.stanford.edu/courses/soe-ydatabases0005-databases-relational-databases-and-sql))
+	- [Introduction to Databases (Coursera)](https://www.coursera.org/learn/introduction-to-databases)
+ 	- [Databases: Relational Databases and SQL (stanford online)](https://online.stanford.edu/courses/soe-ydatabases0005-databases-relational-databases-and-sql)
 
 Books:
-	1. ([Database Design - 2nd Edition](https://opentextbc.ca/dbdesign01/))
+	- [Database Design - 2nd Edition](https://opentextbc.ca/dbdesign01/)
  	
 
 Miscellaneous:
-	1. ([DB-Engines Ranking](https://db-engines.com/en/ranking))
+	- [DB-Engines Ranking](https://db-engines.com/en/ranking)
