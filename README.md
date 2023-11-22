@@ -39,7 +39,8 @@ To be more specific, this course will cover the following topics:
   	- learn transactional system design techniques 
    	- learn analytical system design techniques
 
+## What tools and databases will be used in this course?
+
+Database management systems used in this course will include SQLITE, PostgresQL and DuckDB. For writing SQL queries, an integrated development environment (IdE) that supports the datbases used in this course will be useful. 
  
-
-
 
