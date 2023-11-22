@@ -42,5 +42,18 @@ To be more specific, this course will cover the following topics:
 ## What tools and databases will be used in this course?
 
 Database management systems used in this course will include [SQLITE](https://www.sqlite.org/index.html), [PostgreSQL](https://www.postgresql.org/) and [DuckDB](https://duckdb.org/). For writing SQL queries, an integrated development environment (IDE) that supports course databases used in this course will be useful. 
- 
 
+-----
+
+## Others Resources
+
+Courses:
+	1. [Introduction to Databases (Coursera)](https://www.coursera.org/learn/introduction-to-databases)
+ 	2. 
+
+Books:
+	1. [Database Design - 2nd Edition](https://opentextbc.ca/dbdesign01/)
+ 	2. 
+
+Miscellaneous:
+	1. [Database Ranking](https://db-engines.com/en/ranking)
