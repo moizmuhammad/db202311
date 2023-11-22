@@ -1,6 +1,6 @@
 # Database Design - *A hands-on approach*
 <br>
-![title image](dbdesign.png)
+<p align="center"><img src=dbdesign.png></p>
 <br>
 ## Why to learn about databases in 2023?
 
