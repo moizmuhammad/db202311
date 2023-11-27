@@ -2,6 +2,16 @@
 <br>
 <p align="center"><img src="dbdesign.png"/></p>
 <br>
+
+## Weekly Class Resources
+
+| Class   | Resources                                                                         | Assignments             |  
+|---------|-----------------------------------------------------------------------------------|-------------------------|
+| Week #1 | [PowerPoint](https://github.com/moizmuhammad/db202311/edit/main/README.md)        | Read 2nd Chapter of [Database Design](https://opentextbc.ca/dbdesign01/chapter/chapter-2-fundamental-concepts/) |
+| Week #2 |  |  |
+
+--------
+
 ## Why to learn about databases in 2023?
 
 Learning database design is a timeless and valuable skill that continues to be relevant in 2023. Database design is an integral part of the overall system architecture. Mastering this skill provides a more holistic understanding of how applications and systems function, enabling developers and data professionals to make informed decisions about the design and optimization of the entire system.
