@@ -8,8 +8,8 @@
 | Class   | Resources                                                                         | Assignments                                        |  
 |---------|-----------------------------------------------------------------------------------|----------------------------------------------------|
 | Week #1 | [PowerPoint](https://moizmuhammad.github.io/db202311/week1.pptx)     | Read 2nd Chapter of [Database Design](https://opentextbc.ca/dbdesign01/chapter/chapter-2-fundamental-concepts/) book |
-|         |                                | Setup SQLite IDE [DB Browser](https://download.sqlitebrowser.org/DB.Browser.for.SQLite-3.12.2-win64.zip) |
-|         |                                | Practice SQL Queries (SELECT, INSERT, UPDATE, DELETE) |
+|         | [Sample Employee Database](https://moizmuhammad.github.io/db202311/employee.db) | Setup SQLite IDE [DB Browser](https://download.sqlitebrowser.org/DB.Browser.for.SQLite-3.12.2-win64.zip) |
+|         |                                | Practice SQL Queries (SELECT, INSERT, UPDATE, DELETE)  |
 | Week #2 |  |  |
 
 --------
