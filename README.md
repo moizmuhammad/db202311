@@ -21,7 +21,7 @@ Learning database design is a timeless and valuable skill that continues to be r
 
 ## Who should take this course?
 
-Whether you want to be a software developer or interested in any data related roles like data analyst, PowerBI professional or data scientest, an in-dept understanding of database technology will be crucial to your success. 
+Whether you want to be a software developer or interested in any data related roles like data analyst, PowerBI professional or data scientist, an in-dept understanding of database technology will be crucial to your success. 
 
 
 ## How this course will be conducted?
