@@ -59,6 +59,11 @@ Database management systems used in this course will include [SQLITE](https://ww
 
 ## Others Resources
 
+Practice SQL Skills with
+- [HackerRank Practice SQL](https://www.hackerrank.com/domains/sql)
+- [W3Schools SQL Exercies](https://www.w3schools.com/sql/exercise.asp)
+- [Practice SQL with SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
+
 Online Courses
 - [Coursera: Introduction to Databases](https://www.coursera.org/learn/introduction-to-databases)
 - [Stanford Online: Databases: Relational Databases and SQL](https://online.stanford.edu/courses/soe-ydatabases0005-databases-relational-databases-and-sql)
