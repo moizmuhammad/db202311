@@ -65,6 +65,11 @@ Online Courses
 
 Books
 - [Database Design - 2nd Edition](https://opentextbc.ca/dbdesign01/)
- 	
+
+Articles
+- [What is SQL and Why Should You Learn it in 2023?](https://medium.com/codex/what-is-sql-and-why-should-you-learn-it-812f90388949)
+- [Why You Should Learn SQL to Boost Your Career](https://www.udacity.com/blog/2020/06/why-you-should-learn-sql-to-boost-your-career.html)
+- 
+  
 Miscellaneous
 - [DB-Engines Ranking](https://db-engines.com/en/ranking)
