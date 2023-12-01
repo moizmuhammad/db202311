@@ -62,6 +62,7 @@ Database management systems used in this course will include [SQLITE](https://ww
 Online Courses
 - [Coursera: Introduction to Databases](https://www.coursera.org/learn/introduction-to-databases)
 - [Stanford Online: Databases: Relational Databases and SQL](https://online.stanford.edu/courses/soe-ydatabases0005-databases-relational-databases-and-sql)
+- [HarvardX: CS50's Introduction to Databases with SQL](https://www.edx.org/learn/sql/harvard-university-cs50-s-introduction-to-databases-with-sql)
 
 Books
 - [Database Design - 2nd Edition](https://opentextbc.ca/dbdesign01/)
@@ -69,7 +70,9 @@ Books
 Articles
 - [What is SQL and Why Should You Learn it in 2023?](https://medium.com/codex/what-is-sql-and-why-should-you-learn-it-812f90388949)
 - [Why You Should Learn SQL to Boost Your Career](https://www.udacity.com/blog/2020/06/why-you-should-learn-sql-to-boost-your-career.html)
-- 
+- [Unlock the Power of SQL with Harvard's Free Course: A Comprehensive Guide](https://acadlog.com/updates/news/unlock-the-power-of-sql-with-harvard-s-free-course-a-comprehensive-guide)
+- [Why Product Manager need to Learn SQL?](https://www.thescalable.net/p/why-product-manager-need-to-learn-sql)
+- [Why should non-technical Program Managers learn SQL and Python?](https://www.linkedin.com/pulse/why-should-non-technical-program-managers-learn-sql-python-sinclair/)
   
 Miscellaneous
 - [DB-Engines Ranking](https://db-engines.com/en/ranking)
