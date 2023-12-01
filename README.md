@@ -79,6 +79,7 @@ Articles
 - [Why Product Manager need to Learn SQL?](https://www.thescalable.net/p/why-product-manager-need-to-learn-sql)
 - [Why should non-technical Program Managers learn SQL and Python?](https://www.linkedin.com/pulse/why-should-non-technical-program-managers-learn-sql-python-sinclair/)
 - [7 In-Demand Data Analyst Skills to Get You Hired in 2023](https://www.coursera.org/articles/in-demand-data-analyst-skills-to-get-hired)
+- [The Rise of SQL > It’s become the second programming language everyone needs to know](https://spectrum.ieee.org/the-rise-of-sql)
   
 Miscellaneous
 - [DB-Engines Ranking](https://db-engines.com/en/ranking)
