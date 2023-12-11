@@ -14,7 +14,7 @@
 |         | [Employee Database (DDL/DML) Script](https://moizmuhammad.github.io/db202311/employee_script.sql)                                                                 | Create a new SQLite Employee database using [DDL/DML Script](https://moizmuhammad.github.io/db202311/employee_script.sql)  |
 |         | | Using Employee database, write SQL queries for Questions given on Slide #15 of Presentation |
 | Week #3 | [PowerPoint](https://moizmuhammad.github.io/db202311/week1.pptx) | [Assignment](https://moizmuhammad.github.io/db202311/Week3_Assignment.docx) |
-|         | [Employee Database](https://moizmuhammad.github.io/db202311/employee_w3.db)) |
+|         | [Employee Database](https://moizmuhammad.github.io/db202311/employee_w3.db) |
 | Week #4 | | |
 
 --------
