@@ -10,10 +10,10 @@
 | Week #1 | [PowerPoint](https://moizmuhammad.github.io/db202311/week1.pptx)     | Read 2nd Chapter of [Database Design](https://opentextbc.ca/dbdesign01/chapter/chapter-2-fundamental-concepts/) book |
 |         | [Sample Employee Database](https://moizmuhammad.github.io/db202311/employee.db) | Install [DB Browser for SQLite](https://download.sqlitebrowser.org/DB.Browser.for.SQLite-3.12.2-win64.zip) on your Computer |
 |         |                                | Practice SQL Queries (SELECT, INSERT, UPDATE, DELETE)  |
-| Week #2 | [PowerPoint](https://moizmuhammad.github.io/db202311/week1.pptx) | Read Articles under Other Resources section on this page |
+| Week #2 | [PowerPoint](https://moizmuhammad.github.io/db202311/week2.pptx) | Read Articles under Other Resources section on this page |
 |         | [Employee Database (DDL/DML) Script](https://moizmuhammad.github.io/db202311/employee_script.sql)                                                                 | Create a new SQLite Employee database using [DDL/DML Script](https://moizmuhammad.github.io/db202311/employee_script.sql)  |
 |         | | Using Employee database, write SQL queries for Questions given on Slide #15 of Presentation |
-| Week #3 | [PowerPoint](https://moizmuhammad.github.io/db202311/week1.pptx) | [Assignment](https://moizmuhammad.github.io/db202311/Week3_Assignment.docx) |
+| Week #3 | [PowerPoint](https://moizmuhammad.github.io/db202311/week3.pptx) | [Assignment](https://moizmuhammad.github.io/db202311/Week3_Assignment.docx) |
 |         | [Employee Database](https://moizmuhammad.github.io/db202311/employee_w3.db) |
 | Week #4 | | |
 
